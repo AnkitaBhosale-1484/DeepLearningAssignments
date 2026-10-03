@@ -16,7 +16,7 @@ kernel = [
 ]
 Since there is no padding and stride is 1, a 5×5 image with a 3×3 kernel produces a 3×3 feature map. The general output-size calculation is (N-F)/S + 1 for valid convolutio'''
 
-# Question 1: Manual Convolution
+#  Manual Convolution
 
 image = [
     [0, 0, 0, 0, 0],
